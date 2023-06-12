@@ -11,5 +11,6 @@
 	<h1>Movie Title: <c:out value="${movie}"/></h1>
 	<h1>comment: <c:out value="${comment}"/></h1>
 	<h1>Rating: ${rating}</h1>
+	<h2>Reviewer : <c:out value="${reviewer}"/></h2>
 	<h1>${test}</h1>
 </body>
